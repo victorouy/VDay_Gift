@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/VDay_Gift/static/css/main.32290b31.css",
+    "main.js": "/VDay_Gift/static/js/main.9a2d26e3.js",
+    "static/js/453.072f344b.chunk.js": "/VDay_Gift/static/js/453.072f344b.chunk.js",
+    "index.html": "/VDay_Gift/index.html",
+    "main.32290b31.css.map": "/VDay_Gift/static/css/main.32290b31.css.map",
+    "main.9a2d26e3.js.map": "/VDay_Gift/static/js/main.9a2d26e3.js.map",
+    "453.072f344b.chunk.js.map": "/VDay_Gift/static/js/453.072f344b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32290b31.css",
+    "static/js/main.9a2d26e3.js"
+  ]
+}
